@@ -27,7 +27,7 @@ I am a **Fullstack Developer** with a specialized focus on **AI Integration** an
 
 ---
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 
 **Frontend & Mobile**
 
@@ -56,8 +56,6 @@ I am a **Fullstack Developer** with a specialized focus on **AI Integration** an
 
 ---
 
-### Weekly Coding Habits
-
-``
+### ⏳ Weekly Coding Habits
 
 ---
