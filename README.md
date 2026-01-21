@@ -1,12 +1,12 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm Trương Hoàng Trí 👋</h1>
+  <h1 align="center">Hi there, I'm TriTruong 👋</h1>
   <h3>Fullstack Developer | AI Engineer | DevOps Enthusiast</h3>
   
   <p>
     <i>Building intelligent, scalable applications from Web to Mobile.</i>
   </p>
   
-  <a href="LINK_LINKEDIN_CUA_BAN">
+  <a href="https://www.linkedin.com/in/tri-truong-957748270/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:tritruonghoang3@gmail.com">
@@ -18,9 +18,10 @@
 
 ### About Me
 
-I am a **Fullstack Developer** with a specialized focus on **AI Integration** and **System Architecture**. My expertise lies in bridging the gap between traditional software engineering and modern AI capabilities. I'm also learning at **FPT University**
+I am a **Fullstack Developer** also a student at **FPT University** with a specialized focus on **AI Integration** and **System Architecture**. My expertise lies in bridging the gap between traditional software engineering and modern AI capabilities.
 
 - **AI & RAG:** I specialize in building **RAG (Retrieval-Augmented Generation)** services, leveraging Vector Databases and LLMs to create context-aware, intelligent search and chat systems.
+- **UI/UX to Backend:** Starting with a strong foundation in **Frontend & UI/UX**, I have shifted my focus deeply into **Backend Engineering**. This allows me to design systems that are not only powerful under the hood but also deliver seamless user experiences.
 - **Cross-Platform Dev:** I build high-performance mobile applications using **Expo (React Native)** alongside scalable web platforms.
 - **DevOps Mindset:** I ensure robust deployment with **Docker** and automated **CI/CD pipelines**.
 - **Philosophy:** "Code clean, deploy fast, scale smart."
