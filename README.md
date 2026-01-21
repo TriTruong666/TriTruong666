@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi there, I'm Trương Hoàng Trí 👋</h1>
-  <h3>🚀 Fullstack Developer | DevOps Enthusiast</h3>
+  <h3>Fullstack Developer | DevOps Enthusiast</h3>
   
   <p>
     <i>Building scalable web applications with modern technologies.</i>
@@ -16,17 +16,17 @@
 
 <br/>
 
-### 👨‍💻 About Me
+### About Me
 
 I am a passionate **Fullstack Developer** focused on building high-performance applications and optimizing development workflows. I bridge the gap between development and operations with a strong **DevOps mindset**.
 
-- 🔭 I’m currently working on scalable **Microservices** and **System Architecture**.
-- 🌱 I’m currently exploring advanced **Containerization** and **CI/CD Pipelines**.
-- ⚡ **Philosophy:** "Code clean, deploy fast, scale easy."
+- I’m currently working on scalable **Microservices** and **System Architecture**.
+- I’m currently exploring advanced **Containerization** and **CI/CD Pipelines**.
+- **Philosophy:** "Code clean, deploy fast, scale easy."
 
 ---
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 
 **Frontend Development**
 <p>
