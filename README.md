@@ -18,9 +18,9 @@
 
 ### About Me
 
-I am a **Fullstack Developer** with a specialized focus on **AI Integration** and **System Architecture**. My expertise lies in bridging the gap between traditional software engineering and modern AI capabilities.
+I am a **Fullstack Developer** with a specialized focus on **AI Integration** and **System Architecture**. My expertise lies in bridging the gap between traditional software engineering and modern AI capabilities. I'm also learning at **FPT University**
 
-- **AI & RAG Expert:** I specialize in building **RAG (Retrieval-Augmented Generation)** services, leveraging Vector Databases and LLMs to create context-aware, intelligent search and chat systems.
+- **AI & RAG:** I specialize in building **RAG (Retrieval-Augmented Generation)** services, leveraging Vector Databases and LLMs to create context-aware, intelligent search and chat systems.
 - **Cross-Platform Dev:** I build high-performance mobile applications using **Expo (React Native)** alongside scalable web platforms.
 - **DevOps Mindset:** I ensure robust deployment with **Docker** and automated **CI/CD pipelines**.
 - **Philosophy:** "Code clean, deploy fast, scale smart."
