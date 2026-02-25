@@ -62,7 +62,7 @@ I am a **Fullstack Developer** also a student at **FPT University** with a speci
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 16 February 2026 - To: 23 February 2026
+From: 17 February 2026 - To: 24 February 2026
 
 Total Time: 11 hrs 2 mins
 
