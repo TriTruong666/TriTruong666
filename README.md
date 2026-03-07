@@ -62,13 +62,11 @@ I am a **Fullstack Developer** also a student at **FPT University** with a speci
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 26 February 2026 - To: 05 March 2026
+From: 27 February 2026 - To: 06 March 2026
 
-Total Time: 1 hr 31 mins
+Total Time: 0 secs
 
-TypeScript   1 hr 16 mins          █████████████████████░░░░   84.05 %
-Python       11 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
-JSON         3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
