@@ -62,15 +62,15 @@ I am a **Fullstack Developer** also a student at **FPT University** with a speci
 <!--START_SECTION:waka-->
 
 ```javascript
-From: 14 March 2026 - To: 21 March 2026
+From: 15 March 2026 - To: 22 March 2026
 
-Total Time: 6 hrs 40 mins
+Total Time: 8 hrs 14 mins
 
-TypeScript   6 hrs 8 mins          ███████████████████████░░   91.92 %
-Markdown     13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-YAML         4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-CSS          4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-JavaScript   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+TypeScript   7 hrs 42 mins         ███████████████████████▒░   93.46 %
+Markdown     13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+YAML         4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+CSS          4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+JavaScript   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
